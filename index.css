@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+    
+body {
+    background-color: rgb(53, 94, 59);
+    }
+
+.background{
+    max-width: 45%;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Nashville{
+    max-width: 45%;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+}
